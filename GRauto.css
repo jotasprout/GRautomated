@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+div {
+  font-family: Arial, sans-serif;
+  font-size: 12pt;
+}
+
+.mainContainer {
+	width: 704px;
+}
+
+.pageTitle {
+	/* background color */
+	/* text size */
+	/* text color */
+}
+
+.year {
+	width: 704px;	
+}
+
+.month {
+	width: 230px;	
+}
+
+table {
+  border-spacing: 2;
+  border: 0;  
+}
+
+td, th {
+  padding: 2;
+}
+
+img {
+  border: 0;
+}
